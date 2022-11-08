@@ -1,3 +1,3 @@
 "Hii im student"
-jhsgjwhydhgyhd
-hgwjhjxdjhg
+Select update,insert create
+
