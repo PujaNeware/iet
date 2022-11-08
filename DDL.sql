@@ -1,3 +1,4 @@
 "Hii im student"
-jhsgjwhydhgyhd
-hgwjhjxdjhg
+Select update
+create
+insert
